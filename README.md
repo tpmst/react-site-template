@@ -21,16 +21,16 @@ This is a React-based web application that demonstrates the use of routing, auth
 ## Installation
 
 1. **Clone the repository:**
-git clone <repository-url>
+`git clone <repository-url>`
 
 1. **Navigate to the project directory:**
-cd <project-directory>
+`cd <project-directory>`
 
 1. **Install dependencies:**
-npm install
+`npm install`
 
 1. **Run the application:**
-npm run dev
+`npm run dev`
 
 
 ## Folder Structure
